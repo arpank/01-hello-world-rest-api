@@ -5,6 +5,7 @@ public class HelloWorldBean {
 	private String message;
 
 	public HelloWorldBean(String message) {
+		//test
 		this.message = message;
 	}
 
